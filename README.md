@@ -1,4 +1,4 @@
-- 👋 Hi, I’m nishmayeldandi
+- 👋 Hi, I’m Nishma Yeldandi
 - Thanks for stopping by. Here's a little bit about myself...
 - 👀 I’m a Data Enthusiast
 - 🌱 I’m currently learning
