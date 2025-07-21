@@ -5,8 +5,8 @@
       ,exporing Modern Data Stack (dbt, Airbyte, Databricks)
       ,how to architectect better data system
 - 📫 How to reach me
-      www.linkedin.com/in/nishma12
-      yeldandinishma5@gmail.com
+      www.linkedin.com/in/yeldandi-nishma
+      nishmay12@gmail.com
 - 😄 Pronouns: She/Her
 
 <!---
